@@ -1,7 +1,7 @@
 # LeetCode Solutions
 
-**Name:** Vinayak Pattar
-**Roll Number:** B25CS0311 (or whatever your actual roll number is)
+**Name:** Mounish.B
+**Roll Number:** R25EJ080
 
 Personal LeetCode practice log — part of B25GE0101 portfolio.
 
